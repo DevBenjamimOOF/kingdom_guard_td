@@ -1,0 +1,5 @@
+{
+  "name": "Kingdom Guard TD",
+  "description": "A deep, minimalist medieval Tower Defense game featuring pathfinding, 5 tower types, and progressive waves.",
+  "requestFramePermissions": []
+}
